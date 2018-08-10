@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+blog.so
+blog.dylib
+blog.dll
+blog.a
+blog.lib
+blog-test-*
+*.exe
+*.o
+*.obj
+*.lst
